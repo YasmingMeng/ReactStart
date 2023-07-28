@@ -1,0 +1,30 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4186456 */
+  src: url('./iconfont.eot?t=1690511612589'); /* IE9 */
+  src: url('./iconfont.eot?t=1690511612589#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./iconfont.woff2?t=1690511612589') format('woff2'),
+       url('./iconfont.woff?t=1690511612589') format('woff'),
+       url('./iconfont.ttf?t=1690511612589') format('truetype'),
+       url('./iconfont.svg?t=1690511612589#iconfont') format('svg');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-astronaut:before {
+  content: "\e620";
+}
+
+.icon-yuzhouxingqiu-03:before {
+  content: "\e60e";
+}
+
+.icon-github:before {
+  content: "\e66f";
+}
+
