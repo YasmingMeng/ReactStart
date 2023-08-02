@@ -38,8 +38,7 @@ export const Icon = styled.i.attrs({
 })`
     font-size: 30px;
     left: 15px;
-
-    &.focused {
-        font-size: 40px;
-     }
+    &:hover {
+        font-size: 35px;
+    }
 `
